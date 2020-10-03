@@ -4,6 +4,4 @@
  Uma biblioteca tem:
 - Livros
 - Alunos
- Requisitos do sistema:
-- Realizar o empréstimo de um livro
-- Consultar os livros que estão com um aluno
+ 
